@@ -14,13 +14,13 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin:auto;
         font-style: normal;
         font-size: 23px;
-        color:aqua;
+        color:black;
 }
 p{
         padding: 10px;
 border: 5px;        
         border-style: double;
-        border-color:skyblue;
+        border-color:#00ff00;
         text-align: justify;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 15px;
@@ -40,7 +40,7 @@ animation:both;
 box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);    
     }
 a:hover {
-padding-left: 30p;
+padding-left: 30px;
 border-left: 4px;
 color:white;
 box-shadow: none;    
