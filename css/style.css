@@ -30,6 +30,7 @@ font-size: 15px;
         text-decoration: none;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 display:flex;
+display:block;
 align-items: center;        
 justify-content: space-between;
 gap:5rem;
@@ -66,7 +67,7 @@ font-size:18px;
 border:none;
 height:32px;
 width:260px;
-}    
+}                       
 img {
     border-radius: 50%;
     }
